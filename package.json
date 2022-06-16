@@ -1,0 +1,20 @@
+{
+  "name": "dsa-question",
+  "version": "1.0.0",
+  "description": "DSA 450 Question for Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pranay2210/DSA-Question.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranay2210/DSA-Question/issues"
+  },
+  "homepage": "https://github.com/pranay2210/DSA-Question#readme"
+}
